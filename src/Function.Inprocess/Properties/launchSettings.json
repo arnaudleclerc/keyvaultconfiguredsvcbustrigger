@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Function_Inprocess": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7287",
+      "launchBrowser": false
+    }
+  }
+}
