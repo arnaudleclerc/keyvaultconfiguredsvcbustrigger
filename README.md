@@ -1,3 +1,5 @@
+Note : [Issue](https://github.com/Azure/azure-functions-dotnet-worker/issues/2206) has been closed and this repository has been archived. 
+
 # ServiceBus Trigger on Azure Functions isolated and in-process mode with connection and queue name coming from the keyvault
 
 This repository tries to make the ServiceBusTrigger of an Azure Function on isolated mode run with a connection and queue name coming from an Azure Key Vault.
